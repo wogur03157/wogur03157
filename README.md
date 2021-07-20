@@ -1,8 +1,15 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice)
-<p align="center">
-<h2 align="center">👋 Hello, my name is An Jea-Hyeok. </h2>
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&)
 
+<p align="center">
+<h2 align="center">👋 my name is An Jea-Hyeok. </h2>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+    <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkr03210%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23080909&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/wogur03157) 
 
   
