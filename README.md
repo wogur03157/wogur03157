@@ -52,7 +52,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seungjik-Lee&repo=JSP_Project)](https://github.com/Seungjik-Lee/JSP_Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogur03157&repo=JAVAswing)](https://https://github.com/wogur03157/JAVAswing)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogur03157&repo=JAVAswing)](https://github.com/wogur03157/JAVAswing)
 
 </p>
 <br/>
