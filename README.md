@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&)
 
 <p align="center">
-<h2 align="center">👋 my name is An Jea-Hyeok. </h2>
+<h2 align="center">👋 my name is An Jae-Hyeok. </h2>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
